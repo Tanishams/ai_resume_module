@@ -1,0 +1,13 @@
+Job Title: Data Analyst
+
+Responsibilities:
+- Collect, clean, and interpret data sets.
+- Develop dashboards and reports using Power BI or Tableau.
+- Identify trends and patterns in complex datasets.
+- Communicate insights with stakeholders.
+
+Required Skills:
+- SQL, Excel, Python (Pandas, NumPy)
+- Data visualization (Tableau, Power BI)
+- Statistical analysis, Data cleaning
+- Business communication

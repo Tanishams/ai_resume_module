@@ -1,0 +1,13 @@
+Job Title: Web Developer
+
+Responsibilities:
+- Develop and maintain web applications using HTML, CSS, and JavaScript.
+- Work with frameworks like React, Angular, or Vue.js.
+- Integrate RESTful APIs and manage backend communication.
+- Collaborate with designers to create user-friendly interfaces.
+
+Required Skills:
+- JavaScript, React, Node.js
+- HTML5, CSS3, REST API integration
+- Git, Version control
+- Basic knowledge of databases (MySQL or MongoDB)

@@ -1,0 +1,13 @@
+Job Title: UI/UX Designer
+
+Responsibilities:
+- Design and prototype user interfaces for web and mobile.
+- Conduct user research and usability testing.
+- Collaborate with developers to implement designs.
+- Maintain brand consistency across products.
+
+Required Skills:
+- Figma, Adobe XD, Sketch
+- User research, wireframing, prototyping
+- UI/UX principles, design systems
+- Collaboration and communication

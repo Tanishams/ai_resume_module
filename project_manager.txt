@@ -1,0 +1,13 @@
+Job Title: Project Manager
+
+Responsibilities:
+- Lead project planning and execution.
+- Coordinate with cross-functional teams.
+- Ensure project timelines, budgets, and deliverables are met.
+- Manage risks and communicate progress to stakeholders.
+
+Required Skills:
+- Agile / Scrum methodology
+- Jira, Trello, MS Project
+- Leadership and communication
+- Budgeting, Risk management

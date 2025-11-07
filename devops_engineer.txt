@@ -1,0 +1,13 @@
+Job Title: DevOps Engineer
+
+Responsibilities:
+- Automate software deployment and system monitoring.
+- Implement CI/CD pipelines.
+- Manage infrastructure using Docker, Kubernetes, and AWS.
+- Monitor system performance and troubleshoot issues.
+
+Required Skills:
+- AWS, Docker, Kubernetes
+- Jenkins, CI/CD pipelines
+- Linux administration
+- Scripting (Python, Bash)
